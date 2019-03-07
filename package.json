@@ -1,0 +1,23 @@
+{
+  "name": "basewebsite",
+  "version": "1.0.0",
+  "description": "A site with reload",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charliet1010/basewebsite.git"
+  },
+  "author": "Charlie T",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charliet1010/basewebsite/issues"
+  },
+  "homepage": "https://github.com/charliet1010/basewebsite#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "livereload": "^0.7.0"
+  }
+}
