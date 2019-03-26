@@ -1,0 +1,52 @@
+﻿div {
+    border:1px solid black;
+}
+
+#box1 {
+    background-color:darkblue;
+    color: #FFF;
+}
+
+#formtitle {
+    text-align:center;
+    color:#707070;
+    margin-top:50px;
+    font-style:italic;
+}
+
+form {
+    text-align:center;
+    color:#707070;
+    background-color:darkblue;
+}
+
+input {
+    display:block;
+    margin: 20px auto;
+    width: 50%;
+    padding:5px;
+}
+
+#forgot {
+    display:block;
+    font-weight:bold;
+    height:100px;
+    color:#707070;
+    font-style:italic;
+}
+
+#seperator {
+    width: 10%;
+    height:2px;
+    background-color:darkblue;
+    margin-bottom:40px;
+}
+
+#login {
+    width:40%;
+    background-color:#2E2828;
+    font-weight:bold;
+    border-radius:6px;
+    height:50px;
+    color:#707070;
+}
