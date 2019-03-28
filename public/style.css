@@ -2,10 +2,12 @@
     border:1px solid black;
 }
 
-#box1 {
+#titlebox {
     background-color:darkblue;
     color: #FFF;
 }
+#formbox { background-color:darkblue;
+           color: #FFF;}
 
 #formtitle {
     text-align:center;
@@ -49,4 +51,16 @@ input {
     border-radius:6px;
     height:50px;
     color:#707070;
+}
+#success {text-align:center;
+        color:#707070;
+        margin-top:50px;
+        font-style:italic;}
+#successtext {color:#707070;
+              text-align:center;
+              font-style:italic;
+}
+#successbox {background-color:darkblue;
+            color: #FFF;
+            margin-bottom:auto;
 }
