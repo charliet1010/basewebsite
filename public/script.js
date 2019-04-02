@@ -12,7 +12,7 @@ $(document).ready(function () {
         e.preventDefault();
         $("#invalidlogin").show();
     });
-    $("#username").keypress(function() {
-        console.log 
-})
+    $("#username").keypress(function () {
+        console.log("Handler for .keypress() called.");
+    });
 });
